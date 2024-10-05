@@ -88,8 +88,10 @@ The project involves multiple stages:
 - **Pre-trained Model Accuracy**: 27.3%
 - **Fine-tuned Model Accuracy**: 75.6%
 
-## Acknowledgments
-This project utilizes the following resources:html#automodelforsequenceclassification
+## References
+This project utilizes the following resources:
+
+1. https://huggingface.co/transformers/v3.0.2/model_doc/auto.html#automodelforsequenceclassification
 
 2. https://stackoverflow.com/questions/65097733/creating-a-train-and-a-test-dataloader
 
